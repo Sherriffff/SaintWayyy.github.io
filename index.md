@@ -1,4 +1,3 @@
-[操作系统.md](https://github.com/SaintWayyy/SaintWayyy.github.io/files/8465641/default.md)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/SaintWayyy/SaintWayyy.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
